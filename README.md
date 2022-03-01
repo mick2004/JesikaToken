@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# My first ERC 20 coin
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a basic ERC 20 coin with the help OpenZeppelin and Hardhat
 
 Try running some of the following tasks:
 
